@@ -2,13 +2,13 @@
     "name": "longxiaoyang/nacos-client",
     "description": "nacos clent.",
     "license": "MIT",
-    "homepage": "https://hyperf.io",
-    "support": {
-        "docs": "https://hyperf.wiki",
-        "issues": "https://github.com/hyperf/hyperf/issues",
-        "pull-request": "https://github.com/hyperf/hyperf/pulls",
-        "source": "https://github.com/hyperf/hyperf"
-    },
+    "type": "library",
+    'authors': [
+        {
+            "name": "小龙",
+            "email": "864566775@qq.com"
+        }
+    ],
     "require": {
         "php": ">=7.2",
         "psr/container": "^1.0",
