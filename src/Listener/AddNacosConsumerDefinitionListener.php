@@ -15,7 +15,7 @@ use Hyperf\Contract\ConfigInterface;
 use Hyperf\Di\Container;
 use Hyperf\Event\Contract\ListenerInterface;
 use Hyperf\Framework\Event\BootApplication;
-use App\NacosClient\ProxyFactory;
+use Longxiaoyang\NacosClient\ProxyFactory;
 use Psr\Container\ContainerInterface;
 
 class AddNacosConsumerDefinitionListener implements ListenerInterface
